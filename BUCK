@@ -13,7 +13,7 @@ genrule(
 )
 
 prebuilt_cxx_library(
-  name = 'libsndfile',
+  name = 'sndfile',
   header_namespace = '',
   header_only = True,
   exported_preprocessor_flags = [
