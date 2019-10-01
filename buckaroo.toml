@@ -1,1 +1,1 @@
-targets = [ "sndfile" ]
+targets = [ "//:sndfile" ]
